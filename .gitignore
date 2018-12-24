@@ -1,0 +1,5 @@
+*.pyc
+*.txt
+*.pth
+predict/Baidu/
+.idea
